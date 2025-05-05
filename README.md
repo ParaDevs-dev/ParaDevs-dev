@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![ParaDevs Banner](./images/banner.png)
-
 # ParaDevs – Your Partner in Blockchain & AI  
 **Building tomorrow’s solutions with proven expertise and real-world impact.**
 
