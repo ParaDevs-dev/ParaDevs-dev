@@ -5,7 +5,7 @@
 
 ## Who We Are
 ParaDevs delivers:
-- **Enterprise-grade dApps** for DeFi, gaming, and beyond.  
+- **Enterprise-grade dApps** for DeFAi, AI, and beyond.  
 - **AI & Data Science** to optimize on-chain decision making.  
 - **Protocol Development** using MCP, CLMM, and custom smart contracts.
 
