@@ -19,19 +19,7 @@ ParaDevs delivers:
 ---
 
 ## Success Highlights
-> “ParaDevs reduced our transaction costs by 30% and introduced advanced AI analytics to our protocol.”  
-> — Happy Client X
-
----
-
-## Tech Stack
-| Category       | Tools & Frameworks                        |
-|----------------|-------------------------------------------|
-| Blockchain     | Solidity, Rust, SUI, Ethereum             |
-| AI/ML          | Python, TensorFlow, PyTorch, HuggingFace  |
-| DevOps & Infra | Docker, Kubernetes, AWS, Terraform        |
-
----
+> “ParaDevs reduced our transaction costs by 30% and introduced advanced AI analytics to our protocol.”  > — Happy Client X
 
 ## Contact Us
 - 🌐 **Website**: https://paradevs.com  
